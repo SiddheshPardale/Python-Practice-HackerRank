@@ -1,6 +1,6 @@
 # Problem: Python If-Else 
 # Platform: HackerRank
-# Topic: Python If-Else
+# Topic: Introduction
 # Difficulty: Easy
 # Link: https://www.hackerrank.com/challenges/py-if-else
 
